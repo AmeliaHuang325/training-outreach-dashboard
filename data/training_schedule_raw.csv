@@ -1,0 +1,36 @@
+Training,Status,Delivery Window,Delivery Notes,Distribution by Region,,,,,,,,,,Remaining,Focus Hosts*,Waitlist**,Additional Notes
+,,,,1,2,3,4,5,6,7,8,9,10,REMAINING,,,
+Track A,,,,,,,,,,,,,,,,,
+COM-101,Completed,Through 1/31/2025,,CT,NY,,AL,MI,TX,,ND,HI,OR,0,2,1,Pair with a follow-up workshop where possible
+,,,,RI,,,FL,WI,,,WY,,AK,,,,
+,,,,,,,,,,,,,AK,,,,
+COM-102,Scheduled,Through 1/31/2025,Need 3 more hosts,NH,PR,WV,,IL,NM,,,AZ,,5,0,1,
+,,,,RI,,,,,TX,,,CA,,,,,
+COM-103,Approved,Through 5/31/2024,,,,,,,AR,,CO,NV,AK,1,1,1,
+,,,,,,,,,LA,,WY,,,,,,
+Track B,,,,,,,,,,,,,,,,,
+COM-104,Scheduled,Through 5/31/2024,Need 2 more hosts,,NJ,,GA,IL,TX,IA,MT,CA,WA,5,1,2,Bilingual facilitator preferred
+,,,,,,,,,NM,,,AZ,,,,,
+,,,,,,,,,OK,,,CA,,,,,
+COM-105,Completed,Through 1/31/2025,,,,WV,NC,OH,LA,,,,ID,0,2,0,Bilingual facilitator preferred
+,,,,,,MD,,MI,,,,,,,,,
+,,,,,,MD,,,,,,,,,,,
+COM-106,Approved,Through 1/31/2025,,,,,SC,MN,,,UT,,,2,3,2,
+,,,,,,,AL,,,,SD,,,,,,
+Track C,,,,,,,,,,,,,,,,,
+COM-107,Scheduled,Through 5/31/2024,Need 3 more hosts,,PR,DE,MS,WI,LA,,UT,,ID,1,3,0,Host provides a projector and seating for 30
+,,,,,,,MS,,,,,,OR,,,,
+,,,,,,,FL,,,,,,,,,,
+COM-108,Completed,Through 10/15/2024,,,PR,,GA,MN,,,MT,NV,WA,0,2,1,Pair with a follow-up workshop where possible
+,,,,,PR,,,,,,,,,,,,
+COM-109,In development,TBD,,,,,,,,,,,,3,2,2,
+Track D,,,,,,,,,,,,,,,,,
+COM-110,Scheduled,Through 1/31/2025,Need 3 more hosts,RI,PR,MD,FL,,NM,NE,ND,,,2,1,2,
+,,,,,,MD,FL,,,,,,,,,,
+,,,,,,WV,GA,,,,,,,,,,
+COM-111,Approved,Through 1/31/2025,,RI,,MD,FL,,,KS,,,,1,1,1,Can be combined with a tabletop exercise
+COM-112,In development,TBD,,,,,,,,,,,,3,0,1,Host provides a projector and seating for 30
+TOTAL,,,,86,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+*Number of hosts in the focus list for this course,,,,,,,,,,,,,,,,,
+**Hosts waiting for an open session,,,,,,,,,,,,,,,,,
